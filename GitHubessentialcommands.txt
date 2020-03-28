@@ -5,7 +5,7 @@ Essential Git Commands
 	#Change the directory to the project which has to be uploaded to github repository
 3.git init 
 	#Initialize the repository
-4.git remote add origin master <git link> 
+4.git remote add origin  <git link> 
 	#Copy the github repo link from the browser and paste in git bash in above format.
 5.git remote -v
 	#Checking access for push and pull
